@@ -8,7 +8,8 @@
 _LibPaprika_ is a Python library that makes it easy to render 3D meshes on servers very efficiently.
 
 Here is an example render:
- <img src="./images/hand_manifold.png" width="400"/>
+
+<img src="./images/hand_manifold.png" width="400"/>
 
 
 ## Example Usage
