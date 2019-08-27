@@ -1,6 +1,6 @@
 # LibPaprika
 <p align="center">
- <img src="./images/banner.jpg"/>
+ <img src="./images/banner.jpg" width="400"/>
 </p>
 
 ## Introduction
